@@ -3,5 +3,5 @@ A follow-up from Students_db_1, with the application of JOIN, other functions (R
 
 The file students.sql is the same database as the final product from Students_db_1. 
 
-**students_info.sh** sends queries to the database and returns the data. The file is meant to be run in the terminal. 
+**students_info.sh** sends queries to the database and returns the data. The file is meant to be run in the shell terminal. 
 Do note that students.sql need to be run in the terminal once to rebuild the "students" database for **students_info.sh** to work. 
